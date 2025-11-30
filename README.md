@@ -1,2 +1,2 @@
 # card-estudante
-cartão estudante para projeto escolar!
+cartão estudante mobile para projeto escolar!
